@@ -8,9 +8,11 @@ How to use:
 4. Run this command in your terminal: pip install numpy matplotlib PIL pygame
 
 To run a file:
+
 Option 1:
 1. Download VS Code and open the folder
 2. Open any of the files and click Run -> Run without debugging
+
 Option 2:
 1. Run this in your terminal: cd <PATH-TO-THE-FOLDER-YOU-DOWNLOADED>
 2. Then run this in your terminal: python <WHICHEVER FILE YOU WANT TO RUN>
