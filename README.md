@@ -14,5 +14,5 @@ Option 1:
 2. Open any of the files and click Run -> Run without debugging
 
 Option 2:
-1. Run this in your terminal: cd <PATH-TO-THE-FOLDER-YOU-DOWNLOADED>
-2. Then run this in your terminal: python <WHICHEVER FILE YOU WANT TO RUN>
+1. Run this in your terminal: cd PATH-TO-THE-FOLDER-YOU-DOWNLOADED
+2. Then run this in your terminal: python WHICHEVER FILE YOU WANT TO RUN
