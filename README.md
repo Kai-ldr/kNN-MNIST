@@ -15,4 +15,4 @@ Option 1:
 
 Option 2:
 1. Run this in your terminal: cd PATH-TO-THE-FOLDER-YOU-DOWNLOADED
-2. Then run this in your terminal: python WHICHEVER FILE YOU WANT TO RUN
+2. Then run this in your terminal: python WHICHEVER-FILE-YOU-WANT-TO-RUN
