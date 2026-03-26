@@ -6,6 +6,8 @@ How to use:
 2. Extract the folder
 3. If you dont have Python installed, look it up and install it with all options checked
 4. Run this command in your terminal: pip install numpy matplotlib PIL pygame scikit-learn
+5. Run the downloadMNIST.py file to download the dataset
+6. Run whatever file you want
 
 To run a file:
 
@@ -16,6 +18,3 @@ Option 1:
 Option 2:
 1. Run this in your terminal: cd PATH-TO-THE-FOLDER-YOU-DOWNLOADED
 2. Then run this in your terminal: python WHICHEVER-FILE-YOU-WANT-TO-RUN
-
-FIRST (Before trying to run the kNN):
-Run the downloadMNIST.py file to download the dataset
