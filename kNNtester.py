@@ -1,8 +1,7 @@
 from kNN import kNeuralNetwork
 import numpy as np
-from multiprocessing import Pool, cpu_count
 
-data = np.genfromtxt(fname='mnist_train.csv', delimiter=',')
+data = np.genfromtxt(fname='mnist_full.csv', delimiter=',')
 
 data = np.delete(data, 0, 0)
 

@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 import numpy as np
 
 # Load CSV
-data = np.genfromtxt(fname='mnist_train.csv', delimiter=',')
+data = np.genfromtxt(fname='mnist_full.csv', delimiter=',')
 
 # Remove header row
 data = np.delete(data, 0, 0)

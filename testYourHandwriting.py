@@ -3,7 +3,7 @@ import numpy as np
 from PIL import Image
 from kNN import kNeuralNetwork
 
-data = np.genfromtxt(fname='mnist_train.csv', delimiter=',')
+data = np.genfromtxt(fname='mnist_full.csv', delimiter=',')
 data = np.delete(data, 0, 0)
 data = data[0:10000, :]
 
