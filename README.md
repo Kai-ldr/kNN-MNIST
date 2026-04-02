@@ -7,7 +7,7 @@ How to use:
 3. If you dont have Python installed, look it up and install it with all options checked
 4. Run this command in your terminal: pip install numpy matplotlib PIL pygame scikit-learn
 5. Run the downloadMNIST.py file to download the dataset
-6. Run whatever file you want
+6. Run "run.py" OR whatever file you want
 
 To run a file:
 
